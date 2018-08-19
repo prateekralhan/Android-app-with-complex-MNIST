@@ -13,3 +13,4 @@ The Python codes were executed, trained and the results generated with an accura
 bult the apk, and deploy it into your emulator or transfer the apk in your phone, install the APk file, and see the results.
 
 
+![whatsapp image 2018-08-19 at 08 18 43](https://user-images.githubusercontent.com/29462447/44305047-ebffed80-a38b-11e8-954a-6d822355c7c4.jpg)
